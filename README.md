@@ -1,7 +1,7 @@
 # screentogif
 Nem sempre é prático utilizar o "ffmpeg" para fazer uma simples animação em GIF da sua área de trabalho.
 De fato é um programa complexo, com um manual de uso enorme e depende vários parâmetros passados para funcionar corretamente.
-O objetivo dsse é simplesmente facilitar a tarefa de criar um gif da sua área de trabalho
+O objetivo desse script é simplesmente facilitar a tarefa de criar um gif da sua área de trabalho
 
 <b>Exemplo de uso:</b>
 
